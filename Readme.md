@@ -1,10 +1,18 @@
 # 💫 About Me:
-I am a cybersecurity enthusiast. 
+I am a cybersecurity enthusiast. I am currently leading 2 cybersecurity communities: Cambodia Cybersecurity Youth Community (CyCOM) and the Capture-the-Flag Club. 
+I am dedicated to supporting the cybersecurity field in Cambodia with MPTC. 
+I am a chill person, but is also work-oriented. I like details. 
 
 # 🕊️ Featured Projects:
-- Mini-Kerberos Authentication System: [Link](https://github.com/MJeat/java/blob/main/JavaProjects/PasswordStrengthChecking.java)
-- 
+- Mini-Kerberos Authentication System: [Link](https://github.com/MJeat/Mini-Kerberos-Authentication-System)
+- Password Strength Check: [Link](https://github.com/MJeat/java/blob/main/JavaProjects/PasswordStrengthChecking.java)
+- Logs Detection: [Link](https://github.com/MJeat/python_School/tree/main/python_fundamentals_forCyber/logs_creation)
+- Basic Login & Fail Attempts Detection System: [Link](https://github.com/MJeat/python_School/tree/main/python_fundamentals_forCyber/Login_checker%26Failed_Attempts)
 
+# 🚩 Competitions:
+- Competed in Technovage Solution Capture-the-Flag (TSCTF) Competition | November 2025
+- Competed in the Cambodia National Capture-the-Flag Competition | May 2025
+- Competed in the AUPP Capture-the-Flag competitions | December 2024
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
