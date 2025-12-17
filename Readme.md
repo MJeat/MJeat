@@ -5,6 +5,7 @@ I am a chill person, but is also work-oriented. I like details.
 
 # 🕊️ Featured Projects:
 - Mini-Kerberos Authentication System: [Link](https://github.com/MJeat/Mini-Kerberos-Authentication-System)
+- Basic Honeypot: [Link](https://github.com/MJeat/basic-honeypot)
 - Password Strength Check: [Link](https://github.com/MJeat/java/blob/main/JavaProjects/PasswordStrengthChecking.java)
 - Logs Detection: [Link](https://github.com/MJeat/python_School/tree/main/python_fundamentals_forCyber/logs_creation)
 - Basic Login & Fail Attempts Detection System: [Link](https://github.com/MJeat/python_School/tree/main/python_fundamentals_forCyber/Login_checker%26Failed_Attempts)
