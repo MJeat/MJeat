@@ -10,7 +10,7 @@ I am a chill person, but is also work-oriented. I like details.
 - Basic Login & Fail Attempts Detection System: [Link](https://github.com/MJeat/python_School/tree/main/python_fundamentals_forCyber/Login_checker%26Failed_Attempts)
 
 # 🚩 Competitions:
-- Competed in Technovage Solution Capture-the-Flag (TSCTF) Competition | November 2025
+- Top 30 in the Technovage Solution Capture-the-Flag (TSCTF) Competition | November 2025
 - Competed in the Cambodia National Capture-the-Flag Competition | May 2025
 - Competed in the AUPP Capture-the-Flag competitions | December 2024
 
