@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am a cybersecurity enthusiast.  
+I am a cybersecurity enthusiast. 
+
+# 🕊️ Featured Projects:
+- Mini-Kerberos Authentication System: [Link]([url](https://github.com/MJeat/java/blob/main/JavaProjects/PasswordStrengthChecking.java))
+- 
 
 
 # 💻 Tech Stack:
@@ -9,10 +13,7 @@ I am a cybersecurity enthusiast.
 ![](https://nirzak-streak-stats.vercel.app/?user=MJeat&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MJeat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MJeat&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
