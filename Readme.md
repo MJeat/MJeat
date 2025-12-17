@@ -2,7 +2,7 @@
 I am a cybersecurity enthusiast. 
 
 # 🕊️ Featured Projects:
-- Mini-Kerberos Authentication System: [Link]([url](https://github.com/MJeat/java/blob/main/JavaProjects/PasswordStrengthChecking.java))
+- Mini-Kerberos Authentication System: [Link](https://github.com/MJeat/java/blob/main/JavaProjects/PasswordStrengthChecking.java)
 - 
 
 
