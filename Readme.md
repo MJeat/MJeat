@@ -9,7 +9,7 @@ I am a chill person, but is also work-oriented. I like details.
 - Password Strength Check: [Link](https://github.com/MJeat/java/blob/main/JavaProjects/PasswordStrengthChecking.java)
 - Logs Detection: [Link](https://github.com/MJeat/python_School/tree/main/python_fundamentals_forCyber/logs_creation)
 - Basic Login & Fail Attempts Detection System: [Link](https://github.com/MJeat/python_School/tree/main/python_fundamentals_forCyber/Login_checker%26Failed_Attempts)
-- Capture-the-Flag Documentation: [Link](https://github.com/MJeat/Personal-CTFd)
+- CTFd Self-Setup Tutorial and Documentation: [Link](https://github.com/MJeat/Personal-CTFd)
 
 # 🚩 Competitions:
 - Top 30 in the Technovage Solution Capture-the-Flag (TSCTF) Competition | November 2025
