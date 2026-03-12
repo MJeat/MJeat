@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am a cybersecurity enthusiast. I am currently leading 2 cybersecurity communities: Cambodia Cybersecurity Youth Community (CyCOM) and the Capture-the-Flag Club. 
 I am dedicated to supporting the cybersecurity field in Cambodia with MPTC. 
-I am a chill person, but is also work-oriented. I like details. 
+I am a chill person, but is also work-oriented. I like details. Here's my Technical Portfolio: [Link](https://technical-portfolio-two.vercel.app/)
 
 # 🕊️ Featured Projects:
 - Projects Documentation: [Link](https://github.com/MJeat/Documentation/tree/main)
